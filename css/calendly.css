@@ -1,0 +1,119 @@
+.navcal { font-weight: bolder;
+            font-size: larger;
+            margin-bottom: 3rem;
+
+}
+
+.navs { font-size: large;
+        word-spacing: 70px;
+        margin-bottom: 3rem;
+
+}
+
+.schedlink { text-align: center;
+            font-size: larger;
+            font-weight: bold;
+
+}
+
+#way { color: mediumblue;
+
+}
+
+.organization { text-align: center;
+
+}
+
+.sales { color: #fff;
+        padding-top: 5px;
+        background-color:black; 
+        text-align: center;
+        border-radius: 20px;    
+            
+}
+
+.divsel {  text-align: center;
+
+}
+
+.image {
+    vertical-align: middle;
+    border-style: none;
+    height: 200px;
+    width: 2000px;
+}
+
+.containerlogo { position: relative;
+
+}
+
+.logo { position: absolute;
+        bottom: 20px;
+        color: #fff;
+        left: 150px;
+
+}
+
+.trusted{ color:orange;
+    position: absolute;
+    bottom: 80px;
+    left: 400px;
+    font-size: x-large;
+    font-weight: bolder;
+   
+
+}
+
+.thumbnails { margin-top: 30px;
+                margin-right:auto
+                
+
+}
+.card { border-radius: 1rem;
+        padding: auto;
+        text-justify: auto;
+
+}
+
+ 
+
+.learnmore { 
+            margin-top: 30px;
+            border-radius: 20px;
+            background-color: black;
+            color: #fff;
+            width: 190px;
+
+}
+
+.divsell {  text-align: center;
+
+        
+        
+
+
+
+}
+ 
+
+.allfoot { font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+
+
+
+
+.hd { color: red;
+font-size: large;
+}
+
+.h4 { border-spacing: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    font-size:medium;
+
+}
+
